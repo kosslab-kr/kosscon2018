@@ -36,7 +36,7 @@ KOSSCON 2018 Presentation
     </tr>        
     <tr>
       <td align="center">13:30-13:50</td>
-      <td align="center">(기조연설2) 오픈소스가 산업을 어떻게 바꾸는가?「다음카카오 공용준」
+      <td align="center">(기조연설2) 오픈소스가 산업을 어떻게 바꾸는가?「카카오 공용준」
     </tr>
     </tbody>
 </table>
